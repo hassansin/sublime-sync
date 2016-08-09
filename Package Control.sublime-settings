@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"GitGutter",
 		"Materialize",
 		"Package Control",
