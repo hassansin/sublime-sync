@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Chain of Command",
 		"GitGutter",
 		"Materialize",
+		"MaxPane",
 		"Package Control",
 		"Print to HTML",
 		"SideBarEnhancements"
