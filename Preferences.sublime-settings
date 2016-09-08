@@ -5,10 +5,15 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"drag_text": false,
 	"draw_white_space": "selection",
-	"font_size": 10,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git"
+	],
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -29,5 +34,6 @@
 	],
 	"tab_size": 4,
 	"theme": "Material Brogrammer.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
